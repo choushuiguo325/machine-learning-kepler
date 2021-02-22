@@ -3,8 +3,9 @@
 
 ## Project Description
 
-In this project, I built and optimized the classification system to predict the existence of exoplanets and also analyzed the importances of dependent variables, based on 9500+ exoplanet disposition records from [Kaggle](https://www.kaggle.com/nasa/kepler-exoplanet-search-results).<br/>
-First, I performed basic data cleaning and data processing(scaling/dimensionality reduction/resampling) to prepare the data for modeling, and did the exploratory data analysis based on dependent variables and independent variables. Then, I built  logistic regression, SVM and random forest models, and further optimized model performances using `GridSearchCV`. Finally, I evaluated the final optimized model on the test set, and the test accuracy is 89.34%.
+In this project, I built and optimized the classification system to predict the existence of exoplanets and also analyzed the importances of dependent variables, based on 9500+ exoplanet disposition records from [Kaggle](https://www.kaggle.com/nasa/kepler-exoplanet-search-results).<br/><br/>
+
+First, I performed basic data cleaning and data processing(scaling/dimensionality reduction/resampling) to prepare the data for modeling, and did the exploratory data analysis based on dependent variables and independent variables. <br/>Then, I built  logistic regression, SVM and random forest models, and further optimized model performances using `GridSearchCV`. <br/>Finally, I evaluated the final optimized model on the test set, and the test accuracy is 89.34%.
 
 
 
