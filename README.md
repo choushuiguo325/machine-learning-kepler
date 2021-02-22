@@ -15,13 +15,13 @@ First, I performed basic data cleaning and data processing(scaling/dimensionalit
 
 ## File Description
 
-### 1. `Resources`
+#### 1. `Resources`
 
 * `cumulative.csv` contains the raw data obtained from Kaggle
 * `cleaned_data.csv` contains the cleaned data
 
 
-### 2. `Static`
+#### 2. `Static`
 * `ETL_EDA.ipynb` contains the Python code for data cleaning and data processing (scaling/dimensionality reduction/resampling) 
 * `pca_lda_test.ipynb` contains the Python code to check the performances of models based on PCA/LDA processed components
 * `logistic_regression.ipynb`/`SVM.ipynb`/`random_forest.ipynb` contain the Python code for model training and model optimization process
